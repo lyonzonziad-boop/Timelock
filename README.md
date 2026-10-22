@@ -1,8 +1,8 @@
-# Capsule
+# TimeLock
 
 **Write today. Open later.**
 
-Capsule garde des messages, photos, vidéos et vocaux scellés jusqu'à la date choisie.
+TimeLock garde des messages, photos, vidéos et vocaux scellés jusqu'à la date choisie.
 Tout est stocké dans le navigateur : aucune donnée n'est envoyée à un serveur dans cette version.
 
 ## Démarrer
